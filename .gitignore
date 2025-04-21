@@ -86,3 +86,6 @@ pyrightconfig.json
 
 # VS Code
 .vscode/
+
+# Application specific
+tasks.json
